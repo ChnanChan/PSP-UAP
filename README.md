@@ -1,7 +1,6 @@
 # Data-free Universal Adversarial Perturbation with Pseudo-semantic Prior
 
 ## Introduction
-This repository contains the code for our submission to CVPR 2025 (ID: 2166).  
 We propose a novel data-free universal adversarial attack method that leverages semantic samples drawn from a pseudo-semantic prior.  
 The implementation is based on PyTorch.
 
